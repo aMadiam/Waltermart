@@ -1,0 +1,238 @@
+body {
+    margin: 0px;
+}
+section.top {
+    width: 100%;
+    height: 65px;
+    background-color: #faf5f5;
+}
+img.favorite {
+    margin-left: 49px;
+    margin-top: 15px;
+}
+p.store {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    margin-left: 202px;
+    margin-top: -30px;
+    color: black;
+    display: flex;
+}
+a.select {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(6, 182, 6);
+    padding-left: 5px;
+}
+a.log {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(6, 182, 6);
+}
+div.sign {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 5px 0px 5px;
+    margin-left: 920px;
+    margin-top: -35px;
+}
+div.cart {
+    margin-left: 1150px;
+    margin-top: -38px;
+}
+a.logo {
+    margin-left: 45px;
+}
+img.waltermart {
+    margin-top: 15px;
+}
+a.reorder {
+    margin-left: 50px;
+}
+img.reorder {
+    margin-bottom: 30px;
+}
+div.right-side {
+    margin-left: 695px;
+    margin-top: -72px;
+}
+img.all {
+    margin-left: 15px;
+    margin-bottom: 25px;
+}
+input.search {
+    border: 1px solid rgb(204, 201, 201);
+    width: 75%;
+    height: 35px;
+    margin-left: 72px;
+    display: flex;
+    margin-top: -70px;
+    font-size: 17px;
+}
+nav.nav-bar {
+    background-image: url("bg.jpg");
+    margin-top: 45px;
+    height: 50px;
+    text-align: center;
+}
+img.arrow {
+    width: 22px;
+    height: 12px;
+    margin-top: 15px;
+    padding-left: 10px;
+}
+a.menu-nav {
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-right: 55px;
+}
+div.slide {
+    text-align: center;
+}
+div.featured {
+    background-color: #ee4054;
+    width: 86%;
+    margin-left: 95px;
+    height: 55px;
+}
+p.text-featured {
+    font-weight: bolder;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    padding-top: 15px;
+}
+a.view {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(13, 167, 13);
+    display: flex;
+    margin-left: 650px;
+    margin-top: 10px;
+}
+img.greencross {
+    width: 80px;
+    height: 170px;
+    padding-bottom: 25px;
+    display: flex;
+    padding-top: 15px;
+    margin-left: 100px;
+}
+div.items {
+    margin-left: 100px;
+    width: 85%;
+    border: 1px solid gray;
+    border-right: none;
+    margin-top: 20px;
+}
+div.border-right {
+    width: 282.5px;
+    display: inline-block;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+a.description-text {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-left: 50px;
+}
+a.price {
+    display: flex;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(46, 173, 46);
+    margin-top: 15px;
+    margin-left: 50px;
+    font-size: 18px;
+}
+img.sign {
+    display: flex;
+    margin-left: 240px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+img.lysol, img.downy, img.sanicare, img.mask, img.bactidol, img.delmonte, img.nescafe, img.ascorbic, img.alcoplus, img.lysolcleaner,
+ img.cheers, img.citrus, img.greatest, img.happy, img.antibac {
+    display: flex;
+    padding-bottom: 25px;
+    padding-top: 15px;
+}
+
+img.lysol {
+    width: 50px;
+    height: 170px;
+    margin-left: 100px;
+}
+img.downy {
+    width: 180px;
+    height: 170px;
+    margin-left: 50px;
+}
+img.sanicare {
+    width: 150px;
+    height: 150px;
+    margin-left: 70px;
+}
+img.mask {
+    width: 140px;
+    height: 170px;
+    margin-left: 70px;
+}
+img.bactidol {
+    width: 150px;
+    height: 170px;
+    margin-left: 70px;
+}
+img.delmonte {
+    width: 110px;
+    height: 170px;
+    margin-left: 90px;
+}
+img.nescafe {
+    width: 170px;
+    height: 170px;
+    margin-left: 70px;
+}
+img.ascorbic {
+    width: 170px;
+    height: 170px;
+    margin-left: 70px;
+}
+img.alcoplus {
+    width: 100px;
+    height: 170px;
+    margin-left: 90px;
+}
+img.lysolcleaner {
+    width: 100px;
+    height: 150px;
+    margin-left: 90px;
+}
+img.cheers {
+    width: 80px;
+    height: 170px;
+    margin-left: 100px;
+}
+img.citrus {
+    width: 70px;
+    height: 170px;
+    margin-left: 100px;
+}
+img.greatest {
+    width: 140px;
+    height: 170px;
+    margin-left: 70px;
+}
+img.happy {
+    width: 180px;
+    height: 170px;
+    margin-left: 50px;
+}
+img.antibac {
+    width: 100px;
+    height: 170px;
+    margin-left: 90px;
+}
